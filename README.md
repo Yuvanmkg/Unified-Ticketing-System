@@ -18,14 +18,15 @@ Geo-spatial data for transport routes, stops, and congestion patterns.
 
 Toy/Mock Data Creation (if real data unavailable):
 Design toy/mock data representing transactional histories, route maps, commuter preferences, and fare structures.
-Utilize synthetic data generation techniques to create realistic data for analysis and modeling.
+Utilize synthetic data generation techniques to create realistic data for analysis and modeling. 
+
 4. Data Preprocessing and Analysis:
 Clean and preprocess transactional data for fare calculations, commuter behavior analysis, and demand forecasting.
 Perform Exploratory Data Analysis (EDA) to identify usage patterns, peak travel times, and popular routes.
 Develop machine learning models for:
 Predicting commuter demand
 Optimizing fare structures
-Route planning
+Route planning 
 5. "One Ticketing" System Architecture (Optional):
 Design and implement a centralized "One Ticketing" system for fare payments and access control.
 Integrate with electronic ticketing machines, fare gates, and backend servers for transaction processing.
